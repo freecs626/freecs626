@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @freecs626
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning front-end dev
+- 👀 I’m interested in ML and AI 
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any intersting thing
 - 📫 How to reach me padrinaoleian@gmail.com
 
